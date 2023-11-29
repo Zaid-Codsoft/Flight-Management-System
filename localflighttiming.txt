@@ -1,0 +1,10 @@
+NorthIsl leaving time at 1:30 GMT
+southisl leaving time at 3:30 GMT
+northlah leaving time at 5:30 GMT
+southlah leaving time at 7:30 GMT
+northpes leaving time at 9:30 GMT
+southpes leaving time at 11:30 GMT
+northkar leaving time at 13:30 GMT
+southkar leaving time at 15:30 GMT
+northque leaving time at 17:30 GMT
+southque leaving time at 19:30 GMT

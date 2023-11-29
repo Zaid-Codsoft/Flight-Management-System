@@ -1,0 +1,50 @@
+southisl to India : flight takeoff time : 1:00 Am fight arrival time :3:00 Am 
+northisl China : flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+northisl to UK : flight takeoff time : 6:00 Am fight arrival time :9:00 Am
+northisl to America : flight takeoff time : 9:00 Am fight arrival time :11:00 Am 
+southisl to Iran :  flight takeoff time : 6:00 pm fight arrival time :9:00 pm
+southisl to Iraq :  flight takeoff time : 3:00 Am fight arrival time :7:00 Am
+northisl Qatar :  flight takeoff time : 2:00 Am fight arrival time :9:00 pm
+northisl Afghanistan :  flight takeoff time : 3:00 Am fight arrival time :9:00 Am
+northisl Russia :  flight takeoff time : 4:00 Am fight arrival time :9:00 pm
+northisl Germany :  flight takeoff time : 5:00 Am fight arrival time :9:00 pm
+northlah Finland :  flight takeoff time : 7:00 Am fight arrival time :9:00 Am
+northlah NewZealand :  flight takeoff time : 9:00 Am fight arrival time :9:00 Am
+southlah Africa :  flight takeoff time : 6:00 Am fight arrival time :3:00 Am
+southlah Austraila :  flight takeoff time : 6:30 Am fight arrival time :2:00 Am
+southlah Bangladesh :  flight takeoff time : 6:40 pm fight arrival time :5:00 Am
+southlah Nepal :  flight takeoff time : 6:50 pm fight arrival time :8:00 Am
+southlah WestIndies : flight takeoff time : 3:00 Am fight arrival time :11:00 Am 
+northlah Palestine :  flight takeoff time : 2:00 Am fight arrival time :11:50 Am
+northlah Swizealand :  flight takeoff time : 1:00 Am fight arrival time :9:10 Am
+northlah Thailand :  flight takeoff time : 7:00 Am fight arrival time :9:06 Am
+southkar Maleshia :  flight takeoff time : 9:00 Am fight arrival time :9:50 Am
+southkar Japan :  flight takeoff time : 11:00 Am fight arrival time :6:00 Am
+southkar Korea :  flight takeoff time : 12:00 Am fight arrival time :8:00 Am
+southkar Honkong : flight takeoff time : 3:00 Am fight arrival time :4:00 pm
+southkar Farance :  flight takeoff time : 6:00 Am fight arrival time :1:00 pm
+southpes to India : flight takeoff time : 1:00 Am fight arrival time :2:00 pm 
+northlkar China : flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+southpes to UK : flight takeoff time : 6:00 Am fight arrival time :9:00 Am
+southpes to America :  flight takeoff time : 12:00 Am fight arrival time :8:00 Am 
+southpes to Iran : light takeoff time : 7:00 Am fight arrival time :9:06 Am
+southpes to Iraq : flight takeoff time : 2:00 Am fight arrival time :11:50 Am
+northkar Qatar : flight takeoff time : 7:00 Am fight arrival time :9:00 Am
+northkar Afghanistan : flight takeoff time : 6:00 Am fight arrival time :9:00 Am
+northkar Russia :  flight takeoff time : 9:00 Am fight arrival time :9:50 Am
+northkar Germany : flight takeoff time : 3:00 Am fight arrival time :4:00 pm
+northpes Finland : flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+northpes NewZealand : flight takeoff time : 1:00 Am fight arrival time :9:10 Am
+southque Africa : flight takeoff time : 2:00 Am fight arrival time :11:50 Am
+southque Austraila : flight takeoff time : 6:00 Am fight arrival time :1:00 pm
+southque Bangladesh :  flight takeoff time : 3:00 Am fight arrival time :4:00 pm
+southque Nepal : flight takeoff time : 7:00 Am fight arrival time :9:00 Am
+southque WestIndies : flight takeoff time : 3:00 Am fight arrival time :11:00 Am
+northpes Palestine : light takeoff time : 7:00 Am fight arrival time :9:06 Am
+northpes Swizealand : flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+northpes Thailand : flight takeoff time : 7:00 Am fight arrival time :9:00 Am
+southque Maleshia : flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+southque Japan : flight takeoff time : 2:00 Am fight arrival time :11:50 Am
+southque Korea :  flight takeoff time : 1:00 Am fight arrival time :2:00 pm 
+southque Honkong :flight takeoff time : 3:00 Am fight arrival time :6:00 Am
+southque Farance : light takeoff time : 7:00 Am fight arrival time :9:06 Am
